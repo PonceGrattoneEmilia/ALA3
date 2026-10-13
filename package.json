@@ -1,0 +1,16 @@
+{
+  "name": "ala-3-entregar",
+  "version": "1.0.0",
+  "description": "Trabajo Práctico ALA 3 - To Do List en JavaScript Orientado a Objetos (Prototipos)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
